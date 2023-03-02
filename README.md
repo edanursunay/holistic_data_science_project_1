@@ -2,6 +2,10 @@
 
 Reproducible research is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.  
 
+Original Work: https://www.kaggle.com/code/theeyeschico/crop-analysis-and-prediction/notebook
+
+Dataset: https://www.kaggle.com/datasets/siddharthss/crop-recommendation-dataset
+
 #  CROP RECOMMENDATION USING WEATHER AND SOIL CONTENT
 
 ![gif](https://media.giphy.com/media/BjxJwKAnZ2oHHc1aqS/giphy-downsized-large.gif)
