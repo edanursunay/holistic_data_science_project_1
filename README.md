@@ -1,4 +1,4 @@
-## Reproducible Research for Holistic Data Science Bootcamp 
+## Reproducible Project for Holistic Data Science Bootcamp 
 
 Reproducible research is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.  
 
